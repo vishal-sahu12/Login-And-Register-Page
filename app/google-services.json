@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477032872068",
+    "project_id": "quality-webs-9d2de",
+    "storage_bucket": "quality-webs-9d2de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477032872068:android:5cce53f2cbc95c3050aad1",
+        "android_client_info": {
+          "package_name": "com.example.qualitywebs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477032872068-8517eqnae0511k8tqqghr2k8ek8pbjgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdcxko4uCOlcyPmnJlwAyaTtGN1ra6hGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477032872068-8517eqnae0511k8tqqghr2k8ek8pbjgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
